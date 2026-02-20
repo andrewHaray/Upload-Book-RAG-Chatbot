@@ -12,7 +12,11 @@ A powerful RAG (Retrieval-Augmented Generation) chatbot that allows you to chat 
 - **Session Management**: Web UI with real-time progress tracking
 
 ## Prerequisites
+- Add .env file and add orignal keys
+- export OPENAI_API_KEY=sk-proj-....
+- export PINECONE_API_KEY=pcsk_......
 
+  
 - Python 3.8+
 - OpenAI API key
 - Pinecone API key
